@@ -11,3 +11,5 @@ origin	git@github.com:Assurity-Demo/demo-repo-1.git (push)
 Now adding further changes after transferring ownership to Assurity org!
 
 Adding some more via a Assurity-Demoted new remote!
+
+Editing from Assurity org via web
